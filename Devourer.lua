@@ -24,7 +24,7 @@ local Devour = {}
 Devour.running = false
 
 -- Ferramentas para spammar
-local TOOLS = {"Slap", "Medusa's Head"}
+local TOOLS = {"Tung Tung bat", "Medusa's Head", "Glitched Slap"}
 
 local function equipTool(toolName)
     local char, bp = player.Character, player:FindFirstChild("Backpack")
